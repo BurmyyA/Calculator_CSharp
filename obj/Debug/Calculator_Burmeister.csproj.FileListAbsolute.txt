@@ -1,0 +1,10 @@
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\bin\Debug\Calculator_Burmeister.exe.config
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\bin\Debug\Calculator_Burmeister.exe
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\bin\Debug\Calculator_Burmeister.pdb
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\obj\Debug\Calculator_Burmeister.csprojAssemblyReference.cache
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\obj\Debug\Calculator_Burmeister.Calculator.resources
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\obj\Debug\Calculator_Burmeister.Properties.Resources.resources
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\obj\Debug\Calculator_Burmeister.csproj.GenerateResource.cache
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\obj\Debug\Calculator_Burmeister.csproj.CoreCompileInputs.cache
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\obj\Debug\Calculator_Burmeister.exe
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_2\Calculator_Burmeister\obj\Debug\Calculator_Burmeister.pdb
